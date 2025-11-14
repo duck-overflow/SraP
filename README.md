@@ -1,6 +1,6 @@
 # SraP
 
-Simple readable application Programming — kurz: SraP — ist ein kleines, experimentelles Projekt: eine eigens entwickelte Programmiersprache und ein dazugehöriger Compiler. Ziel dieses Repositories ist es, das Design und die Implementierung einer Sprache zu erkunden und dabei Rust besser kennenzulernen.
+Simple readable application Programming-Language — kurz: SraP — ist ein kleines, experimentelles Projekt: eine eigens entwickelte Programmiersprache und ein dazugehöriger Compiler. Ziel dieses Repositories ist es, das Design und die Implementierung einer Sprache zu erkunden und dabei Rust besser kennenzulernen.
 
 > Hinweis: Die Entwicklung ist noch sehr am Anfang. Vieles ist momentan konzeptionell oder als Prototyp vorhanden. Das Projekt dient primär als Lernprojekt und wird stetig aktualisiert.
 
